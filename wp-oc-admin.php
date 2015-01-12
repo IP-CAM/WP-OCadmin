@@ -3,7 +3,7 @@
 * Plugin Name: WP OCadmin
 * Plugin URI: http://nosite.nl/
 * Description: Manage your OpenCart direct from your Wordpress Admin.
-* Version: 1.0rc1
+* Version: 1.1
 * Author: Tim @ nosite.nl
 * Author URI: http://nosite.nl
 * License: GPL3
